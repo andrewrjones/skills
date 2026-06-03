@@ -1,0 +1,3 @@
+[submodule "submodules/tinybird"]
+	path = submodules/tinybird
+	url = https://github.com/tinybirdco/tinybird-agent-skills.git
