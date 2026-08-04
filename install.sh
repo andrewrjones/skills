@@ -8,5 +8,5 @@ for entry in "${skills[@]}"
 do
     name="${entry%%:*}"
     path="${entry#*:}"
-    ln -sf "submodules/$path" "$name"
+    ln -sfn "submodules/$path" "$name"
 done
