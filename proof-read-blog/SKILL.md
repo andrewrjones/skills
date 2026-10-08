@@ -10,3 +10,4 @@ Do not report on the use of `automagically`. This is a good word.
 In addition:
 - Provide a very brief summary of the readability of the article. My voice is a technical yet informal one, aimed solely at a developer audience. I use colloquialisms and snark.
 - Highlight any fallacies, lazy arguments, inconsistencies or illogical statements.
+- Provide feedback on any diagrams/images and their use in the article
